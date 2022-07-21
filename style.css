@@ -87,7 +87,7 @@ button {
  .weather.loading {
     visibility: hidden;
     max-height: 20px;   
-    position: relative; /*ALIGNED WHERE THE ORGINIAL CONTENTS STARTED */
+    position: relative; /*ALIGNED WHERE THE ORIGINAL CONTENTS STARTED */
 
  }
 
@@ -96,5 +96,5 @@ button {
     color: white;
     content: "Loading..."; 
     color: white;
-    position: absolute; /*ALIGNED WHERE THE ORGINIAL CONTENTS STARTED */
+    position: absolute; /*ALIGNED WHERE THE ORIGINAL CONTENTS STARTED */
 }
