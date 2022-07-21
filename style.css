@@ -78,7 +78,7 @@ button {
     
   }
 
- .flex {     /* DESCRIPTION OF WEATHER CENTERING NEXT TO ICON */
+ .flex {     /* DESCRIPTION OF "WEATHER" BEING CENTERING NEXT TO ICON */
     display: flex;
     align-items: center;
 
